@@ -1,16 +1,8 @@
 # zplay
 
-A new Flutter project.
+This Musc App offline for Songer Mohammed Hamaki.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a start with manu foe favorit song for Mohammed Hammaki 
+(https://github.com/ZainabNadeem/zplay/assets/53113955/9547e081-be7f-4b3e-b4fc-c4da2d71256a)
